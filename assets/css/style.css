@@ -170,7 +170,7 @@ h4,
 h5,
 h6 {
     position: relative;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tajawal', sans-serif;
     font-weight: 400;
     color: #194376;
     margin: 0px;
@@ -1375,8 +1375,8 @@ div#mCSB_1_container {
     line-height: 20px;
     color: #687f9b;
     font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+    /* text-transform: uppercase; */
+    /* letter-spacing: 2px; */
     border-bottom: 1px solid #687f9b;
     margin-bottom: 33px;
     opacity: 0;
